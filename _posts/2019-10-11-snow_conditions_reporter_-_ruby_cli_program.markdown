@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Snow Conditions Reporter - Ruby CLI Program"
-date:       2019-10-12 03:24:36 +0000
+date:       2019-10-11 23:24:37 -0400
 permalink:  snow_conditions_reporter_-_ruby_cli_program
 ---
 
