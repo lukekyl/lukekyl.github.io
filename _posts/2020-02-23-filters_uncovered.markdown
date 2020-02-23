@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Filters Uncovered"
-date:       2020-02-23 20:13:00 +0000
+date:       2020-02-23 15:13:01 -0500
 permalink:  filters_uncovered
 ---
 
@@ -10,7 +10,7 @@ When it comes to creating your Rails Final Project, the  possibilities seem endl
 
 For my final project, I made an app called Filtered. This application allows a user to create coffee reviews while adding coffee bean names, details and company information. One of the features I felt would be a great add-on was the ability to filter the reviews you see on the index page. 
 
-![](https://drive.google.com/open?id=1wonCRxOQW_rBHxkWGzMXpysfGSHeqNVw)
+![](https://imgur.com/DPbdg6j)
 
 The ability for filters to happen is done through [Scope Methods](https://api.rubyonrails.org/classes/ActiveRecord/Scoping/Named/ClassMethods.html). A **Scope Method** is an ActiveRecord class method available on Rails models which can query the database through ActiveRecord and return the queried result. 
 
