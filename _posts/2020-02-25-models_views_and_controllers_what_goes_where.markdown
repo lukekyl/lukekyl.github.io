@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Models, Views, and Controllers...What Goes Where?"
-date:       2020-02-25 05:15:25 +0000
+date:       2020-02-25 00:15:26 -0500
 permalink:  models_views_and_controllers_what_goes_where
 ---
 
