@@ -5,7 +5,7 @@ date:       2020-02-25 00:15:26 -0500
 permalink:  models_views_and_controllers_what_goes_where
 ---
 
-We have all been there. Working on a problem or adding a fun new feature into our projects, and you cant decide where to properly add the code we want to implement. Rails, though magical, should be implemented properly to remain as efficient, developer friendly, and least repetitive as possible by being DRY while using MVC pattern principals. When programming functionality into your rails program it is important to know what kind of logic should go where.
+We have all been there. Working on a problem or adding a fun new feature into our projects, and you cant decide where to properly add the code we want to implement. Rails, though magical, should be implemented properly to remain as efficient, developer friendly, and least repetitive as possible by being DRY while using MVC pattern principals. When programming functionality into your rails app it is important to know what kind of logic should go where.
 
 ![confused](https://media.giphy.com/media/y65VoOlimZaus/giphy.gif)
 
