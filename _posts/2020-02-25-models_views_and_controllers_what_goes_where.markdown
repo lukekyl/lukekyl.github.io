@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Mo**dels, Views, and Controllers...What Goes Where?**"
+title:      "Models, Views, and Controllers...What Goes Where?**"
 date:       2020-02-25 00:15:26 -0500
 permalink:  models_views_and_controllers_what_goes_where
 ---
@@ -36,7 +36,7 @@ When you are busy getting lost in Rails Land, adding fun new functionality to yo
 
 ![success](https://media.giphy.com/media/KJwhyORloye76/giphy.gif)
 
-Some additional resources for this subject:
+##### Some additional resources for this subject:
 - [Stackoverflow Question](https://stackoverflow.com/questions/60658/rails-model-view-controller-and-helper-what-goes-where)
 - [Learn Model Methods](https://learn.co/tracks/online-software-engineering-structured/rails/refactoring-with-helpers-and-model-methods/model-class-methods)
 - [Learn Helper Methods](https://learn.co/tracks/online-software-engineering-structured/rails/refactoring-with-helpers-and-model-methods/refactoring-views-with-helpers)
