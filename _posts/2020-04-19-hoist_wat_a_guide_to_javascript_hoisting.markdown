@@ -23,8 +23,7 @@ Thanks! But what does that mean?
 Well, no matter where functions ``` function pizza(){} ``` or variables ``` var pizza ``` are declared, they are moved to the top of the scope, regardless if they were local or globally placed. BUT, their assignment happens back where they were placed ... in other words, only the declarations are "hoisted" to the top of the scope.
 
 ### Javascript Life Cycle
-Declaration ----------> Assignment ----------> Usage
-``` var pizza ``` | ``` pizza = "8 slices" ``` | ``` console.log(pizza) // Output: "8 slices" ```
+Declaration ``` var pizza ``` ----------> Assignment  ``` pizza = "8 slices" ``` ----------> Usage ``` console.log(pizza)  // Output: "8 slices" ```
 
 Looking at the above life cycle, Javascript will **Hoist** only the *Declaration*, leaving the Assignment and Usage stages where they were in the code.
 
