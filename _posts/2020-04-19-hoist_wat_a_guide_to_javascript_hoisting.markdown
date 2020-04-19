@@ -193,4 +193,3 @@ Hopefully the above examples help clear up the WAT!? in **Hoisting**. Javascript
   - https://www.w3schools.com/js/js_hoisting.asp
   - https://scotch.io/tutorials/understanding-hoisting-in-javascript# Enter your title here
 
-The content of your blog post goes here.
