@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Hoist WAT!? A guide to Javascript Hoisting."
+title:      "**Hoist** WAT!? A guide to Javascript Hoisting."
 date:       2020-04-19 14:28:13 -0400
 permalink:  hoist_wat_a_guide_to_javascript_hoisting
 ---
