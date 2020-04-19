@@ -20,7 +20,7 @@ SO, lets talk about **Hoisting**!
 > **Hoisting** is a default behavior of JavaScript where variables and function declarations are moved to the top of their scope before code execution.
 
 Thanks! But what does that mean?
-Well, no matter where functions ``` function pizza(){} ``` or variables ``` var pizza ``` are declared, they are moved to the top of the scope, regardless if they were local or globally placed. BUT, their assignment happens back where they were placed ... in other words, only the declarations are "hoisted" to the top of the scope.
+Well, no matter where functions ``` function pizza(){} ``` or variables ``` var pizza ``` are declared, they are moved to the top of the scope, regardless if they were local or globally placed. BUT, their assignment happens back where they were placed ... in other words, only the declarations are "**hoisted**" to the top of the scope.
 
 ### Javascript Life Cycle
 Declaration ``` var pizza ``` ----------> Assignment  ``` pizza = "8 slices" ``` ----------> Usage ``` console.log(pizza)  // Output: "8 slices" ```
@@ -47,7 +47,7 @@ var pizza
 console.log(pizza) // Output: "undefined"
 pizza = "8 slices"
 ```
-You can see in the above code, the *declaration* ``` var pizza ``` is hoisted to the top, where the *assignment* ``` pizza = "8 slices" ``` stays below the *usage of* ```console.log(pizza)```, which then produces an ```undefined``` output.
+You can see in the above code, the *declaration* ``` var pizza ``` is **hoisted** to the top, where the *assignment* ``` pizza = "8 slices" ``` stays below the *usage of* ```console.log(pizza)```, which then produces an ```undefined``` output.
 
 #### Function Scope: The use of *"var"* in a function - Correctly
 ```sh
@@ -106,7 +106,7 @@ Now we know why functions can be *called to use* in various points of code befor
 
 ## What doesn't get **Hoisted**?
 Javascript follows the rules of hoisting on functions and variables, so functions defined as variables do not get **hoisted**.
-Javascript version ES6 introduced new features such as ```let``` and ```const``` variables, along with ```class```es. These new standard features change the way we think about scope, and have their own set of rules when it comes to hoisting. Generally, they require us to *declare* and *assign* them before *usage*.
+Javascript version ES6 introduced new features such as ```let``` and ```const``` variables, along with ```class```es. These new standard features change the way we think about scope, and have their own set of rules when it comes to **hoisting**. Generally, they require us to *declare* and *assign* them before *usage*.
 
 Below are some examples.
 
