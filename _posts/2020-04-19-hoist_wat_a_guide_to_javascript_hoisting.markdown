@@ -189,7 +189,7 @@ Hopefully the above examples help clear up the WAT!? in **Hoisting**. Javascript
 
 ![happycamper](https://media.giphy.com/media/xTEvYwzGarSU4J4FiM/giphy.gif)
 
-###### Some Additional Resources:
+#### Some Additional Resources:
   - https://www.w3schools.com/js/js_hoisting.asp
   - https://scotch.io/tutorials/understanding-hoisting-in-javascript# Enter your title here
 
