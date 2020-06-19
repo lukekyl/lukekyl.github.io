@@ -45,7 +45,7 @@ A common pain point to learning new tools or languages is the difficulty to lear
 
 ![Cool, cool, cool](https://media.giphy.com/media/dQNP6OnyFUePu/source.gif)
 
-## React, It's A Good Choice
+## So Yeah, React, It's A Good Choice
 Hopefully this short blog post helps new developers when choosing what Javascript tools, frameworks, and libraries will boost their productivity, help them become better programmers, and produce better products! Whether delving into more front end oriented development, or having just past the Javascript portion of Flatiron School, and wondering what's next and why, React is a very good choice for futher personal growth, and will provide a giant leap in ability from vanilla JS.
 
 ![YES](https://media.giphy.com/media/GCTmdhIIrC9i/source.gif)
