@@ -22,7 +22,7 @@ This new direction in life, and eventual career change has opened my eyes to the
 
 So I leave you with this as I begin my journey from being a student to becoming a member in the "real world" of software engineering and developement: Be ready, because here I come, ready to collaborate, communicate, problem solve, and showcase successes.
 
-> ``` console.log('Hello World') ```
+> ```console.log('Hello World')```
 > 
 > Kyle Luke has entered the chat.
 
